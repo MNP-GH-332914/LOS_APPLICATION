@@ -1,0 +1,22 @@
+{
+  "baseUrl": "https://uatngl.manappuram.com/los/#/login",
+  "commonPassword": "soft1234",
+  "roles": {
+    "SO": {
+      "username": "369343",
+      "stage": "Sales Valuation / Submission"
+    },
+    "CO": {
+      "username": "18568",
+      "stage": "Credit Valuation"
+    },
+    "BM": {
+      "username": "83826",
+      "stage": "BOH Verification & Sanction"
+    },
+    "BranchSalesHead": {
+      "username": "369237",
+      "stage": "Recommendations"
+    }
+  }
+}

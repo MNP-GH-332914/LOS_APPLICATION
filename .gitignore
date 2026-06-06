@@ -1,0 +1,17 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+# Local Environment Secret Configuration Profiles
+local.env
+.env
+
+# Logs and system execution traces
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
